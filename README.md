@@ -1,1 +1,1 @@
-# portfolio https://github.com/wmolhoek/portfolio/Basic-Portfolio/index.html 
+# portfolio https://wmolhoek.github.io/portfolio/
